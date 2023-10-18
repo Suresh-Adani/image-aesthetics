@@ -3,3 +3,7 @@ numpy
 pandas
 pydeck
 streamlit
+transformers==4.31.0
+torch==2.0.1
+Requests==2.31.0
+Pillow==10.1.0
