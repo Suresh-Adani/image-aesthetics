@@ -152,7 +152,6 @@ if hotelid:
             st.image(img, caption=f'Score: {score}', use_column_width=True)
     else:
         st.text("Not a Pareto Hotel")
-    )
 
 
 if __name__ == "__main__":
